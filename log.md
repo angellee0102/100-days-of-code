@@ -6,6 +6,6 @@
 
 **Thoughts:** I started my todolist using sample code from w3schools. Then I wanted to add my own features, such as counting how many items are, and delete tasks that have been done. I struggled with Javascript, but, overall, I feel like I am slowly getting better at it.
 
-**Link to work:** https://github.com/angellee0102/to-do-list)
+**Link to work:** https://github.com/angellee0102/to-do-list
 
 
