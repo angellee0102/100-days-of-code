@@ -9,3 +9,9 @@
 **Link to work:** https://github.com/angellee0102/to-do-list
 
 
+### Day 1: March 26, 2019 
+
+**Today's Progress**: Started Personal Portfolio project.
+
+**Thoughts:** I started my personal portfolio using sample code from FCC. Will continue adding my info and project.
+**Link to work:** https://github.com/angellee0102/Personal-Portfolio
