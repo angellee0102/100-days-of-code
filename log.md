@@ -21,4 +21,4 @@
 **Today's Progress**: Started JS30 Drumkit project.
 
 **Thoughts:** I started the Javascript30 Challenge, and this is the Day 1 project. Finished the basic functions. Will keep on improving.
-**Link to work:** https://github.com/angellee0102/Personal-Portfolio
+**Link to work:** https://github.com/angellee0102/Javascript30_D1
