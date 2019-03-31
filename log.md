@@ -16,9 +16,15 @@
 **Thoughts:** I started my personal portfolio using sample code from FCC. Will continue adding my info and project.
 **Link to work:** https://github.com/angellee0102/Personal-Portfolio
 
-### Day 2: March 2, 2019 
+### Day 2: March 27, 2019 
 
 **Today's Progress**: Started JS30 Drumkit project.
 
 **Thoughts:** I started the Javascript30 Challenge, and this is the Day 1 project. Finished the basic functions. Will keep on improving. Want to add features such as clicking on the note using the mouse. And add piano notes.
 **Link to work:** https://github.com/angellee0102/Javascript30_D1
+
+### Day 3: March 30, 2019 
+
+**Today's Progress**: Started Node.js course on Udemy
+
+**Thoughts:** I started the Node.js course that I've always wanted to begin. Learned the introduction part of the course.
