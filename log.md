@@ -28,3 +28,9 @@
 **Today's Progress**: Started Node.js course on Udemy
 
 **Thoughts:** I started the Node.js course that I've always wanted to begin. Learned the introduction part of the course.
+
+### Day 4: April 1, 2019 
+
+**Today's Progress**: Continue with the node.js course on Udemy. Imported validator packages and explored a bit about it.
+
+**Thoughts:** There are many packages that can be found on npmjs.com, would love to know more about different packages.
